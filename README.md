@@ -1,4 +1,4 @@
 PKGBUILDs:
 
 - fifechan-git
-- glu-git
+- libglu-git
